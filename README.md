@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh "MrCrafty" Mithapara</h1>
 <h3 align="center">A passionate Full Stack Developer and Data Science Enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcrafty" alt="mrcrafty" /></a> </p>
-
-- 🔭 I’m currently working on [Harsh Art Academy](project-harshartacademy.vercel.app)
+- 🔭 I’m currently working on [Harsh Art Academy](https://github.com/MrCrafty/project-harshartacademy)
 
 - 🌱 I’m currently learning **NextJS, Sitecore, Flask**
 
-- 👯 I’m looking to collaborate on [Harsh Art Academy](project-harshartacademy.vercel.app)
+- 👯 I’m looking to collaborate on [Harsh Art Academy](https://github.com/MrCrafty/project-harshartacademy)
 
 - 💬 Ask me about **Computers, Cars, Astrophysics**
 
