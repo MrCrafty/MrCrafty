@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcrafty" alt="mrcrafty" /></a> </p>
 
-- 🔭 I’m currently working on [Harsh Art Academy](https://github.com/MrCrafty/project-harshartacademy)
+- 🔭 I’m currently working on [blogsite](https://github.com/MrCrafty/blogsite)
 
 - 🌱 I’m currently learning **NextJS, Sitecore, Flask**
 
